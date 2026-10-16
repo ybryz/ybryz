@@ -22,12 +22,6 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgres,vscode&perline=7" />
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ybryz&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybryz&layout=compact&theme=dracula&hide_border=true" />
-</p>
 
 ## 📫 Contato
 
