@@ -10,7 +10,6 @@
 ## 🧠 No que trabalho e estudo
 
 - **LLMs e IA generativa:** integração com APIs de modelos de linguagem, engenharia de prompts e avaliação de respostas
-- **RAG:** busca semântica, embeddings e bancos vetoriais para dar contexto aos modelos
 - **Agentes e automação:** fluxos com uso de ferramentas e orquestração de tarefas
 - **Backend para IA:** APIs com Python, boas práticas de código e testes
 - **Fundamentos de Ciência da Computação:** algoritmos, estruturas de dados, banco de dados e engenharia de software
