@@ -1,7 +1,7 @@
 
 # Gabriela Faria
 
-## 🚀 Sobre mim
+## ⭐ Sobre mim
 
 - 🎓 Cursando **Ciência da Computação** no **Centro Universitário Barão de Mauá**
 - 🤖 Trabalhando como **AI Engineer**, construindo soluções com Inteligência Artificial
